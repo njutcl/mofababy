@@ -1,6 +1,6 @@
-# mfb
+《信息组织与检索》课程项目 mfb 母婴食谱搜索引擎
+前端使用reactivesearch for vue   后端基于elasticsearch  数据来源 美食杰https://www.meishij.net/
 
-> A Vue.js project
 
 ## Build Setup
 
